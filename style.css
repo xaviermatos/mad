@@ -1,0 +1,14 @@
+
+body {
+   background-color:#a5a4a2;
+}
+
+h2 { 
+font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+    color: #191970;
+}
